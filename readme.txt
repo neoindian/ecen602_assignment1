@@ -1,11 +1,6 @@
 ECEN602 HW1 Programming Assignment
 ----------------------------------
 
-Team Number: 23
-Member 1 # Pattanaik, Nishant (UIN: 722001698)
-Member 2 # Janakiraman, Nagaraj Thenkarai (UIN: 322007460)
----------------------------------------
-
 Description/Comments:
 --------------------
 1. The client and server are implemented using C++ .
